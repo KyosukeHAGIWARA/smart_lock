@@ -1,6 +1,5 @@
 #include <Time.h>
 #include <TimeLib.h>
-
 #include <Servo.h>
 #include <Adafruit_NeoPixel.h>
 #include "RCS620S.h"
