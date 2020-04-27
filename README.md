@@ -18,5 +18,5 @@ NFCのIDmを適当に読み取って適当にfillするといい感じに動く�
 
 MIT
 
-Produced by Rawashi 
+Produced by Rawashi
 + kyonspc [at] gmail.com
